@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales Dashboard (Tableau Project)
+# 📊 Amazon Yearly Sales Dashboard (Tableau Project)
 
-This project showcases an interactive **E-Commerce Sales Dashboard** built with Tableau, using a dataset of Amazon transactions.  
+This project showcases an interactive **Amazon Yearly Sales Dashboard** built with Tableau, using a dataset of Amazon transactions.  
 The dashboard is designed to provide insights into sales, profit, and product category performance to support better business decision-making.
 
 ---
